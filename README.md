@@ -31,7 +31,7 @@ This repository contains the implementation of the MediChain system, including s
 
 To install and run MediChain locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/anj20/MediChain.git`
+1. Clone this repository: `git clone https://github.com/Parthasarathirout/MediChain`
 2. Install the required dependencies:
    - Navigate to the folder and run npm install --force
 3. Configure the system:
